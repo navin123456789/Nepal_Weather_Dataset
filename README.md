@@ -30,6 +30,6 @@ and we try to analyze the weather data and weather trends over years. The data c
 3. **How can we predict how much it will rain/ using other weather information like tempreture and humidity?** 
 
 We have answered these questions on our notebook. There are also other visualizations that are helpful in understanding our data better. 
-We have implemented Linear Regression, K-Means Clustering. Furthermore we have visualized our data using geopandas 
+We have implemented Linear Regression, K-Means Clustering. Furthermore we have visualized our data using geopandas. 
 This project was really helpful because we implemented the things we learnt in our data mining class, also we tried something new,i.e implemented geopandas for visualization
 
