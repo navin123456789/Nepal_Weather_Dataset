@@ -27,9 +27,9 @@ and we try to analyze the weather data and weather trends over years. The data c
 ## Questions 
 1. **How can we show the regions/district in Nepal that have extreme weather on a map?**
 2. **Can we group district with similar weather conditions together?**
-3. **How can we predict how much it will tempreture using other weather information like tempreture and humidity?** 
+3. **How can we predict how much it will rain/ using other weather information like tempreture and humidity?** 
 
 We have answered these questions on our notebook. There are also other visualizations that are helpful in understanding our data better. 
-We have implemented Linear Regression, K-Means Clustering. Furthermore we have implemented LSTM for predicting **tempreture** over time. 
-This project was really helpful because we implemented the things we learnt in our data mining class, also we tried something new,i.e implemented LSTM for time series forecasting. 
+We have implemented Linear Regression, K-Means Clustering. Furthermore we have visualized our data using geopandas 
+This project was really helpful because we implemented the things we learnt in our data mining class, also we tried something new,i.e implemented geopandas for visualization
 
